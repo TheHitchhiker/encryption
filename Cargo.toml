@@ -1,0 +1,9 @@
+[package]
+authors = ["TheHitchhiker <carelessly.living@gmail.com>"]
+name = "encrypt"
+version = "0.1.0"
+
+[dependencies]
+rand = "0.3.12"
+rust-crypto = "0.2.34"
+rustc-serialize = "0.3.16"
